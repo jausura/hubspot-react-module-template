@@ -5,7 +5,7 @@ This is a barebones template for creating a working react module in hubspot.
 Notes:
 
 - _Assumes you already have hubspot CLI configured and authorized to a target account_
-- _You will probably want to rename project, app, and module. Project name and therefore link in template is set in hsproject file, not name of directory_
+- _You will probably want to rename project, app, and module. Project name and therefore link in template is set in hsproject file, not name of directory, but app name is name of directory in template link not name in config_
 
 1. Clone repo
 2. cd into project and run `npm install`.
